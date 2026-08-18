@@ -1,15 +1,15 @@
 # Telekom Marketinq Analitikası (Excel)
 
-Telekom datası üzərində qurulmuş, üç mənbə cədvəlinə (Kompaniyalar, Müştərilər, Satış) əsaslanan tam həcmli marketinq analitikası layihəsi. Analiz müştəri davranışlarının davamlılığını, gəlirin sabitliyini, gəlirin konsentrasiyasını və çarpaz satış/endirim tövsiyə sistemini əhatə edir.
+Telekom şirkət datası üzərində qurulmuş, üç əsas cədvələ (Kompaniyalar, Müştərilər, Satış) əsaslanan tam həcmli marketinq analitikası layihəsi. Analiz müştəri davranışlarının davamlılığını, gəlirin sabitliyini, gəlirin hansı qruplarda daha çox cəmləndiyini və satış/endirim tövsiyə sistemini əhatə edir.
 
 ## Əsas Nəticələr
 
 |Göstərici|Nəticə|
 |-|-|
-|Ortalama kohort faizi|**87,46%**|
-|Əsas gəlir konsentrasiyası|**5 kompaniya ≈ ümumi gəlirin 60%-i** (Pareto)|
-|Stabillik liderləri|Gəlir sabitliyinə görə TOP 3 kompaniya (2023-cü ilin son 5 ayı)|
-|Endirim imkanı|Son istifadə etdiyi tarif tarixindəki ən bahalı tarifi olmayan müştərilər müəyyən edilib|
+|Ümumi orta kohort faizi|**87,46%**|
+|Əsas gəlir qrupları|**5 kompaniya ≈ ümumi gəlirin 60%-i** (Pareto)|
+|Stabillik analizi|Gəlir sabitliyinə görə TOP 3 kompaniya (2023-cü ilin son 5 ayı üzrə)|
+|Endirim imkanı|Hazırda istifadə etdiyi tarif ümumi istifadə etdiyi tariflərin içində ən bahalı tarifi olmayan müştərilər müəyyən edilib|
 
 ## Data haqqında
 
