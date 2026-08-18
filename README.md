@@ -53,7 +53,7 @@ Excel · PivotTable-lar · Slicer-lər · Şərti Formatlaşdırma · Kohort Ana
 
 ## Fayl
 
-[`Telecom\_Marketing\_Analysis.xlsx`](./Telecom_Marketing_Analysis.xlsx)
+(result/Tam marketinq analizi TELEKOM data.xlsx)
 
 ## Müəllif
 
