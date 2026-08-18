@@ -1,4 +1,4 @@
-# Telekom Marketinq Analitikası (Excel)
+# Telekom datası ilə Marketinq araşdırması (Excel) 🔎
 
 Telekom şirkət datası üzərində qurulmuş, üç əsas cədvələ (Kompaniyalar, Müştərilər, Satış) əsaslanan tam həcmli marketinq analitikası layihəsi. Analiz müştəri davranışlarının davamlılığını, gəlirin sabitliyini, gəlirin hansı qruplarda daha çox cəmləndiyini və satış/endirim tövsiyə sistemini əhatə edir.
 
