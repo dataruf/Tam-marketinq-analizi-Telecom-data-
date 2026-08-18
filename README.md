@@ -53,7 +53,7 @@ Excel · PivotTable-lar · Slicer-lər · Şərti Formatlaşdırma · Kohort Ana
 
 ## Fayl
 
-(result/Tam_marketinq_analizi_TELEKOM_data.xlsx)
+![Fayl](result/Tam_marketinq_analizi_TELEKOM_data.xlsx)
 
 ## Müəllif
 
