@@ -27,19 +27,19 @@ Bir-biri ilə əlaqəli üç cədvəl:
 
 Müştərilər qoşulma ayına görə qruplaşdırılıb; davranış davamlılığını ölçmək üçün ay-ay üzrə retention izlənilib. Bütün kohortlar üzrə ortalama retention **87,46%** təşkil edir. İnteraktiv slicer vasitəsilə görünüş kompaniya adına görə filtrlənə bilir.
 
-![Kohort Analizi](/Kohort.png)
+![Kohort Analizi](images/Kohort.png)
 
 ### 2\. Gəlir Sabitliyi Analizi
 
 Hər kompaniyanın aylıq gəliri stabillik göstəricisinə çevrilərək hansı kompaniyaların sabit (aşağı dəyişkənlikli), hansıların isə qeyri-sabit gəlir gətirdiyi müəyyən edilib. İl/ay slicer-ləri ilə 2023-cü ilin son 5 ayına filtrlənib, şərti formatlaşdırma isə TOP 3 ən stabil kompaniyanı vurğulayır.
 
-!\[Stabillik Analizi](/Stabillik.png)
+!\[Stabillik Analizi](images/Stabillik.png)
 
 ### 3\. Pareto Analizi
 
 Kompaniya üzrə gəlirin Pareto diaqramı (sütunlar + kumulyativ % xətti) gəlirin 80/20 tipli konsentrasiyasını müəyyən edir. **NonUSTravel, OptOutMailings, HasCreditCard, OwnsComputer, HandsetWebCapable** kompaniyaları birlikdə ümumi kompaniya gəlirinin təqribən **60%**-ni təşkil edir və strateji fokusun ən çox gətiri verəcəyi sahələri göstərir.
 
-!\[Pareto Analizi](/Pareto.png)
+!\[Pareto Analizi](images/Pareto.png)
 
 ### 4\. Endirim / Çarpaz Satış Tövsiyəsi
 
