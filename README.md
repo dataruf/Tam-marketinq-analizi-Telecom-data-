@@ -27,7 +27,7 @@ Bir-biri ilə əlaqəli üç cədvəl:
 
 Müştərilər qoşulma ayına görə qruplaşdırılıb; davranış davamlılığını ölçmək üçün ay-ay üzrə retention izlənilib. Bütün kohortlar üzrə ortalama retention **87,46%** təşkil edir. İnteraktiv slicer vasitəsilə görünüş kompaniya adına görə filtrlənə bilir.
 
-!\[Kohort Analizi](Kohort.png)
+![Kohort Analizi](images/Kohort.png)
 
 ### 2\. Gəlir Sabitliyi Analizi
 
