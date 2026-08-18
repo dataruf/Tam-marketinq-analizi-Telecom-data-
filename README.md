@@ -33,19 +33,19 @@ Müştərilər qoşulma ayına görə qruplaşdırılıb; davranış davamlılı
 
 Hər kompaniyanın aylıq gəliri stabillik göstəricisinə çevrilərək hansı kompaniyaların sabit (aşağı dəyişkənlikli), hansıların isə qeyri-sabit gəlir gətirdiyi müəyyən edilib. İl/ay slicer-ləri ilə 2023-cü ilin son 5 ayına filtrlənib, şərti formatlaşdırma isə TOP 3 ən stabil kompaniyanı vurğulayır.
 
-!\[Stabillik Analizi](images/stability\_analysis.png)
+!\[Stabillik Analizi](/Stabillik.png)
 
 ### 3\. Pareto Analizi
 
 Kompaniya üzrə gəlirin Pareto diaqramı (sütunlar + kumulyativ % xətti) gəlirin 80/20 tipli konsentrasiyasını müəyyən edir. **NonUSTravel, OptOutMailings, HasCreditCard, OwnsComputer, HandsetWebCapable** kompaniyaları birlikdə ümumi kompaniya gəlirinin təqribən **60%**-ni təşkil edir və strateji fokusun ən çox gətiri verəcəyi sahələri göstərir.
 
-!\[Pareto Analizi](images/pareto\_chart.png)
+!\[Pareto Analizi](/Pareto.png)
 
 ### 4\. Endirim / Çarpaz Satış Tövsiyəsi
 
 Hər müştərinin tarixi tarif istifadəsi son istifadə etdiyi tarif ilə müqayisə edilir. Əgər son tarif həmin müştərinin istifadə etdiyi ən bahalı tarif deyilsə, daha yüksək səviyyəli tarif üzrə hədəflənmiş endirim kampaniyası tövsiyə olunur ki, müştəri yenidən cəlb edilsin.
 
-!\[Endirim Analizi](images/discount\_recommendation.png)
+!\[Endirim Analizi](/endirim.png)
 
 ## Alətlər və Metodlar
 
