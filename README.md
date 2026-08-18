@@ -57,6 +57,6 @@ Excel · PivotTable-lar · Slicer-lər · Şərti Formatlaşdırma · Kohort Ana
 
 ## Müəllif
 
-**Rufat** — Data Analyst
-[Medium](#) · [LinkedIn](#)
+**Rüfət İsmayılov** — Data Analyst
+[Medium](https://dataruf.medium.com/) · [LinkedIn](https://www.linkedin.com/in/dataruf/)
 
