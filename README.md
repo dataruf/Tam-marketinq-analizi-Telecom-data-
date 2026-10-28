@@ -55,7 +55,7 @@ Hər müştərinin tarixi tarif istifadəsi son istifadə etdiyi tarif ilə müq
 ![Endirim Analizi](images/Endirim.png)
 
 
-(insights/Marketinq analizinin yekun nəticələri.pdf)
+![Analizin nəticələri](insights/Marketinq analizinin yekun nəticələri.pdf)
 
 ## Alətlər və Metodlar
 
